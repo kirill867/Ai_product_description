@@ -79,7 +79,7 @@ ai_product_description/
 Клонировать репозиторий:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/kirill867/Ai_product_description/blob/master/README.md
 cd ai_product_description
 ```
 
@@ -114,8 +114,6 @@ LLM_MODEL=qwen2.5:3b
 
 LLM_TIMEOUT=300
 LLM_MAX_TOKENS=2200
-
-LOG_LEVEL=INFO
 ```
 
 Для локального запуска используется Ollama.
