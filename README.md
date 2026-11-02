@@ -79,7 +79,7 @@ ai_product_description/
 Клонировать репозиторий:
 
 ```bash
-git clone https://github.com/kirill867/Ai_product_description/blob/master/README.md
+git clone https://github.com/kirill867/Ai_product_description.git
 cd ai_product_description
 ```
 
