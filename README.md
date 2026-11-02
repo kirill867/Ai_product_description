@@ -37,7 +37,8 @@ ai_product_description/
 ├── .env.example
 ├── .gitignore
 ├── requirements.txt
-└── README.md
+├── README.md
+└── sample_products.json
 ```
 
 ## Архитектура решения
@@ -91,7 +92,7 @@ python -m venv app/.venv
 Активировать виртуальное окружение в Windows Git Bash:
 
 ```bash
-source .venv/Scripts/activate
+source app/.venv/Scripts/activate
 ```
 
 Установить зависимости:
